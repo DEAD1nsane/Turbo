@@ -16,7 +16,7 @@
 	"background": {
 		"blur": 0.588,
 		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/lightning.jpg",
-		"alpha": 0.18
+		"alpha": 0.3
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
