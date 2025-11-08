@@ -1,0 +1,249 @@
+{
+	"name": "★ 彡( ZΞPHYR )彡 ★",
+	"description": "AMOLED black base, using red, white & grey for everything else",
+	"version": "1",
+	"authors": [
+		{
+			"name": "im__turbo__",
+			"id": "288054683161853952"
+        }
+    ],
+	"plus": {
+		"version": 0,
+		"mentionLineColor": "#fff",
+		"iconpack": "rosiecord-plumpy"
+	},
+	"background": {
+		"blur": 0.588,
+		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/cookie.jpeg",
+		"alpha": 0.3
+	},
+	"semanticColors": {
+		"HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+		"HEADER_SECONDARY": [
+            "#FFFFFF"
+        ],
+		"TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+		"TEXT_SECONDARY": [
+            "#FFFFFF"
+        ],
+		"TEXT_PRIMARY": [
+            "#FFFFFF"
+        ],
+		"TEXT_MUTED": [
+            "#ED0243"
+        ],
+		"INTERACTIVE_NORMAL": [
+            "#ED0243"
+        ],
+		"INTERACTIVE_HOVER": [
+            "#181818"
+        ],
+		"INTERACTIVE_ACTIVE": [
+            "#FFFFFF"
+        ],
+		"INTERACTIVE_MUTED": [
+            "#2A2A2A"
+        ],
+		"BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+		"BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+		"BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#000000"
+        ],
+		"BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+		"BACKGROUND_ACCENT": [
+            "#08080830"
+        ],
+		"BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+		"BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+		"BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+		"BACKGROUND_MOBILE_FLOATING": [
+            "#404040"
+        ],
+		"BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+		"BACKGROUND_MESSAGE_HOVER": [
+            "#ED0243"
+        ],
+		"BACKGROUND_MODIFIER_HOVER": [
+            "#ED0243"
+        ],
+		"BACKGROUND_MODIFIER_ACTIVE": [
+            "#181818"
+        ],
+		"BACKGROUND_MODIFIER_SELECTED": [
+            "#181818"
+        ],
+		"BACKGROUND_MODIFIER_ACCENT": [
+            "#4A4A4A80"
+        ],
+		"EMBED_BACKGROUND": [
+            "#181818D0"
+        ],
+		"BACKGROUND_MENTIONED": [
+            "#ED024340"
+        ],
+		"BG_SURFACE_OVERLAY_TMP": [
+            "#000000"
+        ],
+		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
+            "#ED0243"
+        ],
+		"BUTTON_OUTLINE_BRAND_BOARDER": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000"
+        ],
+		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#181818"
+        ],
+		"REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#ED0243"
+        ],
+		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#00000000"
+        ],
+		"ANDROID_RIPPLE": [
+            "#FFFFFF30"
+        ],
+		"BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+		"BG_BRAND": [
+            "#000000"
+        ],
+		"BG_MOD_FAINT": [
+            "#090909"
+        ],
+		"BG_MOD_STRONG": [
+            "#090909"
+        ],
+		"SCROLLBAR_THIN_THUMB": [
+            "#ED0243"
+        ],
+		"SCROLLBAR_THIN_TRACK": [
+            "#000000"
+        ],
+		"SCROLLBAR_AUTO_THUMB": [
+            "#ED0243"
+        ],
+		"SCROLLBAR_AUTO_TRACK": [
+            "#FFFFFF"
+        ],
+		"CHANNELS_DEFAULT": [
+            "#FFFFFF"
+        ],
+		"TEXT_LINK": [
+            "#ED0243"
+        ],
+		"TEXT_DANGER": [
+            "#FFFFFF"
+        ],
+		"KEYBOARD": [
+            "#ED0243"
+        ],
+		"CHANNEL_ICON": [
+            "#FFFFFF"
+        ],
+		"CHAT_BACKGROUND": [
+            "#000000"
+        ],
+		"CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#FFFFFF"
+        ],
+		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+		"BG_BASE_TERTIARY": [
+            "#000000"
+        ]
+	},
+	"rawColors": {
+		"PRIMARY_200": "#ED0243",
+		"PRIMARY_230": "#FFFFFF",
+		"PRIMARY_300": "#FFFFFF",
+		"PRIMARY_500": "#000000",
+		"PRIMARY_600": "#181818",
+		"PRIMARY_660": "#000000",
+		"PRIMARY_700": "#000000",
+		"PRIMARY_800": "#ED024370",
+		"BRAND_260": "#ED0243",
+		"BRAND_360": "#ED0243",
+		"BRAND_500": "#1A1A1A", 
+		"BRAND_560": "#000000",
+		"RED_400": "#303030",
+		"RED_430": "#000000",
+		"GREEN_360": "#ED0243",
+		"GREEN_430": "#000000",
+		"WHITE_500": "#FFFFFF",
+		"BLUE_345": "#ED0243",
+		"PLUM_1": "#ED0243",
+		"PLUM_3": "#ED0243",
+		"PLUM_6": "#FFFFFF",
+		"PLUM_9": "#ED0243",
+		"PLUM_11": "#ED0243",
+		"PLUM_13": "#ED0243",
+		"PLUM_14": "#000000",
+		"PLUM_15": "#202020",
+		"PLUM_16": "#ED024370",
+		"PLUM_17": "#000000",
+		"PLUM_18": "#020202",
+		"PLUM_19": "#000000",
+		"PLUM_20": "#000000",
+		"PLUM_22": "#18181840",
+		"PLUM_24": "#000000"
+	},
+	"fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
+},
+	"spec": 2
+}
