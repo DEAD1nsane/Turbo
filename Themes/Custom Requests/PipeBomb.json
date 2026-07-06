@@ -15,8 +15,8 @@
 	},
 	"background": {
 		"blur": 0.588,
-		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/whatsapp.png",
-		"alpha": 0.95
+		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/WhatsApp.jpg",
+		"alpha": 0.33
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
