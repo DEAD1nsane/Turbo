@@ -12,196 +12,185 @@
 		"version": 0,
 		"mentionLineColor": "#fff",
 		"iconpack": "rosiecord-plumpy"
-	},	
+	},
 	"background": {
 		"blur": 0.588,
 		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/3rdEye.png",
 		"alpha": 0.33
 	},
 	"semanticColors": {
-		"HEADER_PRIMARY": [
-            "#FFFFFF"
-        ],
-		"HEADER_SECONDARY": [
-            "#FFFFFF"
-        ],
-		"TEXT_NORMAL": [
-            "#FFFFFF"
-        ],
-		"TEXT_SECONDARY": [
-            "#FFFFFF"
-        ],
-		"TEXT_PRIMARY": [
-            "#FFFFFF"
-        ],
-		"TEXT_MUTED": [
-            "#2196F3"
-        ],
-		"INTERACTIVE_NORMAL": [
-            "#2196F3"
-        ],
-		"INTERACTIVE_HOVER": [
-            "#181818"
-        ],
-		"INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
-        ],
-		"INTERACTIVE_MUTED": [
-            "#2A2A2A"
-        ],
-		"BACKGROUND_PRIMARY": [
-            "#000000"
-        ],
-		"BACKGROUND_SECONDARY": [
-            "#000000"
-        ],
-		"BACKGROUND_SECONDARY_ALT": [
-            "#000000"
-        ],
-		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#000000"
-        ],
-		"BACKGROUND_TERTIARY": [
-            "#000000"
-        ],
-		"BACKGROUND_ACCENT": [
-            "#08080830"
-        ],
-		"BACKGROUND_FLOATING": [
-            "#000000"
-        ],
-		"BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
-        ],
-		"BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-		"BACKGROUND_BASE_LOWEST": [
-            "#000000"
-        ],
-		"BACKGROUND_MOBILE_FLOATING": [
-            "#404040"
-        ],
-		"BACKGROUND_NESTED_FLOATING": [
-            "#000000"
-        ],
-		"BACKGROUND_MESSAGE_HOVER": [
-            "#2196F3"
-        ],
-		"BACKGROUND_MODIFIER_HOVER": [
-            "#2196F3"
-        ],
-		"BACKGROUND_MODIFIER_ACTIVE": [
-            "#181818"
-        ],
-		"BACKGROUND_MODIFIER_SELECTED": [
-            "#181818"
-        ],
-		"BACKGROUND_MODIFIER_ACCENT": [
-            "#4A4A4A80"
-        ],
-		"EMBED_BACKGROUND": [
-            "#181818D0"
-        ],
-		"MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-            "#2196F340"
-        ],
-		"BG_SURFACE_OVERLAY_TMP": [
-            "#000000"
-        ],
-		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#2196F3"
-        ],
-		"BUTTON_OUTLINE_BRAND_BOARDER": [
-            "#000000"
-        ],
-		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#000000"
-        ],
-		"REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#000000"
-        ],
-		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#000000"
-        ],
-		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#181818"
-        ],
-		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#2196F3"
-        ],
-		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#00000000"
-        ],
-		"ANDROID_RIPPLE": [
-            "#FFFFFF30"
-        ],
-		"BG_BASE_PRIMARY": [
-            "#000000"
-        ],
-		"BG_BRAND": [
-            "#000000"
-        ],
-		"BG_MOD_FAINT": [
-            "#090909"
-        ],
-		"BG_MOD_STRONG": [
-            "#090909"
-        ],
-		"SCROLLBAR_THIN_THUMB": [
-            "#2196F3"
-        ],
-		"SCROLLBAR_THIN_TRACK": [
-            "#000000"
-        ],
-		"SCROLLBAR_AUTO_THUMB": [
-            "#2196F3"
-        ],
-		"SCROLLBAR_AUTO_TRACK": [
-            "#FFFFFF"
-        ],
-		"CHANNELS_DEFAULT": [
-            "#FFFFFF"
-        ],
-		"TEXT_LINK": [
-            "#2196F3"
-        ],
-		"TEXT_DANGER": [
-            "#FFFFFF"
-        ],
-		"KEYBOARD": [
-            "#2196F3"
-        ],
-		"CHANNEL_ICON": [
-            "#FFFFFF"
-        ],
-		"CHAT_BACKGROUND": [
-            "#000000"
-        ],
-		"CARD_PRIMARY_BG": [
-            "#000000"
-        ],
-		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#FFFFFF"
-        ],
-		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#000000",
-            "#000000",
-            "#000000"
-        ],
-		"BG_BASE_TERTIARY": [
-            "#000000"
-        ]
+		"HEADER_PRIMARY": ["#FFFFFF"],
+		"HEADER_SECONDARY": ["#FFFFFF"],
+		"HEADER_MUTED": ["#2196F3"],
+		"TEXT_NORMAL": ["#FFFFFF"],
+		"TEXT_SECONDARY": ["#FFFFFF"],
+		"TEXT_PRIMARY": ["#FFFFFF"],
+		"TEXT_MUTED": ["#2196F3"],
+		"TEXT_LINK": ["#2196F3"],
+		"TEXT_DANGER": ["#FFFFFF"],
+		"TEXT_POSITIVE": ["#23A55A"],
+		"TEXT_WARNING": ["#F0B232"],
+		"TEXT_LINK_LOW_SATURATION": ["#2196F3"],
+		"INTERACTIVE_NORMAL": ["#2196F3"],
+		"INTERACTIVE_HOVER": ["#181818"],
+		"INTERACTIVE_ACTIVE": ["#FFFFFF"],
+		"INTERACTIVE_MUTED": ["#2A2A2A"],
+		"CHANNELS_DEFAULT": ["#FFFFFF"],
+		"CHANNEL_ICON": ["#FFFFFF"],
+		"CHANNEL_TEXT_AREA_PLACEHOLDER": ["#2196F3"],
+		"CHANNELTEXTAREA_BACKGROUND": ["#000000"],
+		"CHAT_BACKGROUND": ["#000000"],
+		"CHAT_BANNER_BG": ["#000000"],
+		"CHAT_BORDER": ["#000000"],
+		"CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
+		"BACKGROUND_PRIMARY": ["#000000"],
+		"BACKGROUND_SECONDARY": ["#000000"],
+		"BACKGROUND_SECONDARY_ALT": ["#000000"],
+		"BACKGROUND_TERTIARY": ["#000000"],
+		"BACKGROUND_ACCENT": ["#08080830"],
+		"BACKGROUND_FLOATING": ["#000000"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+		"BACKGROUND_NESTED_FLOATING": ["#000000"],
+		"BACKGROUND_MESSAGE_HOVER": ["#2196F3"],
+		"BACKGROUND_MENTIONED": ["#2196F314"],
+		"BACKGROUND_MENTIONED_HOVER": ["#2196F314"],
+		"BACKGROUND_MODIFIER_HOVER": ["#2196F3"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#181818"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#181818"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#4A4A4A80"],
+		"BACKGROUND_MODIFIER_ACCENT_2": ["#4A4A4A80"],
+		"BG_BACKDROP": ["#000000B2"],
+		"BG_BASE_PRIMARY": ["#000000"],
+		"BG_BASE_SECONDARY": ["#000000"],
+		"BG_BASE_TERTIARY": ["#000000"],
+		"BG_MOD_FAINT": ["#090909"],
+		"BG_MOD_STRONG": ["#090909"],
+		"BG_MOD_SUBTLE": ["#090909"],
+		"BG_SURFACE_OVERLAY": ["#000000"],
+		"BG_SURFACE_OVERLAY_TMP": ["#000000"],
+		"BG_SURFACE_RAISED": ["#000000"],
+		"BG_BRAND": ["#000000"],
+		"BORDER_FAINT": ["#FFFFFF07"],
+		"BORDER_STRONG": ["#FFFFFF28"],
+		"BORDER_SUBTLE": ["#FFFFFF14"],
+		"DIVIDER_STRONG": ["#FFFFFF28"],
+		"DIVIDER_SUBTLE": ["#FFFFFF14"],
+		"BRAND": ["#2196F3"],
+		"CONTROL_BRAND_FOREGROUND": ["#2196F3"],
+		"CONTROL_BRAND_FOREGROUND_NEW": ["#2196F3"],
+		"FOCUS_PRIMARY": ["#2196F3"],
+		"KEYBOARD": ["#2196F3"],
+		"SCROLLBAR_THIN_THUMB": ["#2196F3"],
+		"SCROLLBAR_THIN_TRACK": ["#000000"],
+		"SCROLLBAR_AUTO_THUMB": ["#2196F3"],
+		"SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
+		"EMBED_BACKGROUND": ["#181818D0"],
+		"EMBED_TITLE": ["#FFFFFF"],
+		"CARD_PRIMARY_BG": ["#000000"],
+		"CARD_PRIMARY_PRESSED_BG": ["#000000"],
+		"CARD_SECONDARY_BG": ["#000000"],
+		"CARD_SECONDARY_PRESSED_BG": ["#000000"],
+		"CARD_GRADIENT_BG": ["#00000066"],
+		"CARD_GRADIENT_PRESSED_BG": ["#0000007F"],
+		"BUTTON_SECONDARY_BACKGROUND": ["#181818"],
+		"BUTTON_SECONDARY_BACKGROUND_ACTIVE": ["#2A2A2A"],
+		"BUTTON_SECONDARY_BACKGROUND_DISABLED": ["#181818"],
+		"BUTTON_SECONDARY_BACKGROUND_HOVER": ["#2A2A2A"],
+		"BUTTON_DANGER_BACKGROUND": ["#DA373C"],
+		"BUTTON_DANGER_BACKGROUND_ACTIVE": ["#8F2022"],
+		"BUTTON_DANGER_BACKGROUND_DISABLED": ["#DA373C"],
+		"BUTTON_DANGER_BACKGROUND_HOVER": ["#A12829"],
+		"BUTTON_POSITIVE_BACKGROUND": ["#248045"],
+		"BUTTON_POSITIVE_BACKGROUND_ACTIVE": ["#15562B"],
+		"BUTTON_POSITIVE_BACKGROUND_DISABLED": ["#248045"],
+		"BUTTON_POSITIVE_BACKGROUND_HOVER": ["#1A6334"],
+		"BUTTON_OUTLINE_BRAND_BACKGROUND": ["#00000000"],
+		"BUTTON_OUTLINE_BRAND_BACKGROUND_ACTIVE": ["#00000000"],
+		"BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": ["#00000000"],
+		"BUTTON_OUTLINE_BRAND_BORDER": ["#2196F3"],
+		"BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": ["#2196F3"],
+		"BUTTON_OUTLINE_BRAND_BORDER_HOVER": ["#2196F3"],
+		"BUTTON_OUTLINE_BRAND_TEXT": ["#FFFFFF"],
+		"BUTTON_OUTLINE_BRAND_TEXT_ACTIVE": ["#FFFFFF"],
+		"BUTTON_OUTLINE_BRAND_TEXT_HOVER": ["#FFFFFF"],
+		"BUTTON_OUTLINE_DANGER_BACKGROUND": ["#00000000"],
+		"BUTTON_OUTLINE_DANGER_BACKGROUND_ACTIVE": ["#DA373C"],
+		"BUTTON_OUTLINE_DANGER_BACKGROUND_HOVER": ["#DA373C"],
+		"BUTTON_OUTLINE_DANGER_BORDER": ["#F23F43"],
+		"BUTTON_OUTLINE_DANGER_BORDER_ACTIVE": ["#DA373C"],
+		"BUTTON_OUTLINE_DANGER_BORDER_HOVER": ["#DA373C"],
+		"BUTTON_OUTLINE_DANGER_TEXT": ["#FFFFFF"],
+		"BUTTON_OUTLINE_PRIMARY_BACKGROUND": ["#00000000"],
+		"BUTTON_OUTLINE_PRIMARY_BACKGROUND_ACTIVE": ["#2A2A2A"],
+		"BUTTON_OUTLINE_PRIMARY_BACKGROUND_HOVER": ["#181818"],
+		"BUTTON_OUTLINE_PRIMARY_BORDER": ["#4A4A4A"],
+		"BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": ["#2A2A2A"],
+		"BUTTON_OUTLINE_PRIMARY_BORDER_HOVER": ["#181818"],
+		"BUTTON_OUTLINE_PRIMARY_TEXT": ["#FFFFFF"],
+		"BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": ["#00000099"],
+		"DEPRECATED_CARD_BG": ["#00000099"],
+		"DEPRECATED_CARD_EDITABLE_BG": ["#0000004C"],
+		"DEPRECATED_STORE_BG": ["#000000"],
+		"DEPRECATED_TEXT_INPUT_BG": ["#000000"],
+		"DEPRECATED_TEXT_INPUT_BORDER": ["#0000004C"],
+		"DEPRECATED_TEXT_INPUT_BORDER_DISABLED": ["#000000"],
+		"DEPRECATED_TEXT_INPUT_BORDER_HOVER": ["#000000"],
+		"MESSAGE_MENTIONED_BACKGROUND_DEFAULT": ["#2196F340"],
+		"REDESIGN_BUTTON_SECONDARY_BORDER": ["#000000"],
+		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#000000"],
+		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000"],
+		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#181818"],
+		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#00000000"],
+		"REDESIGN_CHAT_INPUT_BACKGROUND": ["#000000"],
+		"REDESIGN_INPUT_CONTROL_SELECTED": ["#2196F3"],
+		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFFFFF"],
+		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000", "#000000", "#000000"],
+		"ANDROID_RIPPLE": ["#FFFFFF30"],
+		"BLACK": ["#000000"],
+		"BLUR_FALLBACK": ["#000000F4"],
+		"BLUR_FALLBACK_PRESSED": ["#000000F4"],
+		"EXPRESSION_PICKER_BG": ["#000000"],
+		"ACTIVITY_CARD_BACKGROUND": ["#000000"],
+		"ACTIVITY_CARD_ICON_OVERLAY": ["#000000D8"],
+		"ALERT_BG": ["#000000"],
+		"FORUM_POST_TAG_BACKGROUND": ["#000000E5"],
+		"FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": ["#000000CC"],
+		"GUILD_ICON_INACTIVE_BG": ["#000000"],
+		"GUILD_ICON_INACTIVE_NESTED_BG": ["#000000"],
+		"GUILD_NOTIFICATIONS_BOTTOM_SHEET_PILL_BACKGROUND": ["#000000"],
+		"DISPLAY_BANNER_OVERFLOW_BACKGROUND": ["#0000007F"],
+		"ACTION_SHEET_GRADIENT_BG": ["#000000"],
+		"BACKGROUND_MESSAGE_AUTOMOD": ["#2196F314"],
+		"BACKGROUND_MESSAGE_AUTOMOD_HOVER": ["#2196F314"],
+		"BACKGROUND_MESSAGE_HIGHLIGHT": ["#2196F314"],
+		"BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": ["#2196F30F"],
+		"BACKGROUND_BASE_LOWEST": ["#000000"],
+		"BACKGROUND_MOBILE_FLOATING": ["#404040"]
 	},
 	"rawColors": {
+		"PRIMARY_100": "#000000",
+		"PRIMARY_130": "#000000",
+		"PRIMARY_160": "#000000",
 		"PRIMARY_200": "#2196F3",
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
+		"PRIMARY_360": "#2196F3",
+		"PRIMARY_400": "#2196F3",
 		"PRIMARY_500": "#000000",
-		"PRIMARY_600": "#181818",
+		"PRIMARY_530": "#181818",
+		"PRIMARY_560": "#000000",
+		"PRIMARY_600": "#000000",
+		"PRIMARY_630": "#000000",
+		"PRIMARY_645": "#000000",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_700": "#000000",
+		"PRIMARY_730": "#000000",
+		"PRIMARY_760": "#000000",
 		"PRIMARY_800": "#2196F370",
+		"PRIMARY_830": "#000000",
+		"PRIMARY_860": "#000000",
+		"PRIMARY_900": "#000000",
 		"BRAND_260": "#2196F3",
 		"BRAND_360": "#2196F3",
 		"BRAND_500": "#1A1A1A",
@@ -230,24 +219,24 @@
 		"PLUM_24": "#000000"
 	},
 	"fonts": {
-	    "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
-	    "ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
-	    "ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
-	    "ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
-	    "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
-	    "ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
-	    "ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
-	    "ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
-	    "ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
-	    "ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
-	    "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
-	    "NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
-	    "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
-	    "NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
-	    "NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
-	    "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
-	    "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
-	    "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
+		"ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+		"ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+		"ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
+		"ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+		"ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
+		"ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+		"ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
+		"ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+		"ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+		"ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+		"ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
+		"NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+		"NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+		"NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+		"NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+		"NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+		"NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+		"SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
 	},
-"spec": 2
+	"spec": 2
 }
