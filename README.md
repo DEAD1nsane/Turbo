@@ -1,1 +1,0 @@
-## I use [Revenge Theme Keys](https://purple-eyez.github.io/Bunny-Theme-Keys/index.html) to help me as much as humanly possible, if I cant find what I need there then I turn to the amazing community at [Revenge Discord](https://discord.com/invite/ddcQf3s2Uq) for help.
