@@ -92,7 +92,7 @@
       "#FFFFFF"
     ],
     "EMBED_BACKGROUND": [
-      "#181818D0"
+      "#000000D0"
     ],
     "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
       "#FFFFFF30"
@@ -149,7 +149,7 @@
       "#FFFFFF"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#181818"
+      "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#000000"
@@ -158,7 +158,7 @@
       "#00000000"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "#181818"
+      "#000000"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#FFFFFF"
@@ -395,15 +395,15 @@
     "PLUM_9": "#ed0243",
     "PLUM_10": "#FFFFFF",
     "PLUM_11": "#ed0243",
-    "PLUM_13": "#2A2A2A",
+    "PLUM_13": "#000000",
     "PLUM_14": "#000000",
-    "PLUM_15": "#202020",
+    "PLUM_15": "#000000",
     "PLUM_16": "#ed024370",
     "PLUM_17": "#000000",
-    "PLUM_18": "#020202",
+    "PLUM_18": "#000000",
     "PLUM_19": "#000000",
     "PLUM_20": "#000000",
-    "PLUM_22": "#18181840",
+    "PLUM_22": "#00000040",
     "PLUM_23": "#000000",
     "PLUM_24": "#000000",
     "BLURPLE_1": "#ed0243",
