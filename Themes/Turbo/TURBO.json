@@ -134,7 +134,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_TEXT_ACTIVE": [
-      "#FFFFFF"
+      "#ED0243"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
       "#ED0243"
@@ -146,7 +146,7 @@
       "#000000"
     ],
     "INTERACTIVE_ICON_DEFAULT": [
-      "#FFFFFF"
+      "#ED0243"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#000000"
@@ -369,6 +369,18 @@
     ],
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
       "#4D4D4D"
+    ],
+    "INTERACTIVE_ICON_ACTIVE": [
+      "#ED0243"
+    ],
+    "INTERACTIVE_ICON_HOVER": [
+      "#ED0243"
+    ],
+    "MOBILE_HEADER_ICON_DEFAULT": [
+      "#ED0243"
+    ],
+    "MOBILE_HEADER_ICON_ACTIVE": [
+      "#ED0243"
     ]
   },
   "rawColors": {
