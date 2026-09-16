@@ -89,7 +89,7 @@
       "#ED0243"
     ],
     "CHANNEL_ICON": [
-      "#FFFFFF"
+      "#ED0243"
     ],
     "EMBED_BACKGROUND": [
       "#000000D0"
@@ -161,7 +161,7 @@
       "#000000"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#FFFFFF"
+      "#ED0243"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#000000"
@@ -366,6 +366,9 @@
     ],
     "VOICE_CHANNEL_USER_LIMIT_ACCENT_BACKGROUND": [
       "#ed024333"
+    ],
+    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+      "#4D4D4D"
     ]
   },
   "rawColors": {
