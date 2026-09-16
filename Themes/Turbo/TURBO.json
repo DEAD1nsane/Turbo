@@ -783,5 +783,82 @@
 		"NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
 		"SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
 	},
-	"spec": 2
+	"spec": 2,
+	"sysColors": {
+		"accent1": [
+			"#ffffff",
+			"#fffcfd",
+			"#fff4f6",
+			"#ffe6ea",
+			"#ffd3da",
+			"#febac5",
+			"#fe9bac",
+			"#fe778d",
+			"#fd4d6b",
+			"#fd1e43",
+			"#e30228",
+			"#a9021e",
+			"#690112"
+		],
+		"accent2": [
+			"#ffffff",
+			"#fffcfd",
+			"#fff4f6",
+			"#ffe6ea",
+			"#ffd3da",
+			"#febac5",
+			"#fe9bac",
+			"#fe778d",
+			"#fd4d6b",
+			"#fd1e43",
+			"#e30228",
+			"#a9021e",
+			"#690112"
+		],
+		"accent3": [
+			"#ffffff",
+			"#fffcfd",
+			"#fff4f6",
+			"#ffe6ea",
+			"#ffd3da",
+			"#febac5",
+			"#fe9bac",
+			"#fe778d",
+			"#fd4d6b",
+			"#fd1e43",
+			"#e30228",
+			"#a9021e",
+			"#690112"
+		],
+		"neutral1": [
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000"
+		],
+		"neutral2": [
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000",
+			"#000000"
+		]
+	}
 }
