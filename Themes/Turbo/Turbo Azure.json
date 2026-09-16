@@ -119,10 +119,10 @@
 			"#FFFFFF"
 		],
 		"TEXT_MUTED": [
-			"#2196F3"
+			"#ffffff"
 		],
 		"TEXT_LINK": [
-			"#2196F3"
+			"#ffffff"
 		],
 		"TEXT_FEEDBACK_CRITICAL": [
 			"#FFFFFF"
@@ -137,7 +137,7 @@
 			"#FFFFFF"
 		],
 		"INTERACTIVE_TEXT_DEFAULT": [
-			"#2196F3"
+			"#ffffff"
 		],
 		"INTERACTIVE_MUTED": [
 			"#2A2A2A"
