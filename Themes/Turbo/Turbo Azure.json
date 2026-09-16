@@ -16,7 +16,7 @@
   "background": {
     "blur": 0.588,
     "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/3rdEye.png",
-    "alpha": 0.33
+    "alpha": 0.28
   },
   "semanticColors": {
     "BACKGROUND_BASE_LOW": [
@@ -134,7 +134,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_TEXT_ACTIVE": [
-      "#FFFFFF"
+      "#0C84E3"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
       "#0c84e3"
@@ -146,7 +146,7 @@
       "#000000"
     ],
     "INTERACTIVE_ICON_DEFAULT": [
-      "#FFFFFF"
+      "#0C84E3"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#000000"
@@ -369,6 +369,18 @@
     ],
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
       "#4D4D4D"
+    ],
+    "INTERACTIVE_ICON_ACTIVE": [
+      "#0C84E3"
+    ],
+    "INTERACTIVE_ICON_HOVER": [
+      "#0C84E3"
+    ],
+    "MOBILE_HEADER_ICON_DEFAULT": [
+      "#0C84E3"
+    ],
+    "MOBILE_HEADER_ICON_ACTIVE": [
+      "#0C84E3"
     ]
   },
   "rawColors": {
