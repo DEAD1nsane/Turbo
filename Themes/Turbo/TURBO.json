@@ -434,7 +434,13 @@
 		"PRIMARY_630": "#000000",
 		"PRIMARY_645": "#000000",
 		"PRIMARY_730": "#000000",
-		"PRIMARY_830": "#000000"
+		"PRIMARY_830": "#000000",
+		"GREEN_NEW_22": "#ed0243",
+		"GREEN_NEW_25": "#ed0243",
+		"CONTROL_CONNECTED_BACKGROUND_DEFAULT": "#ed0243",
+		"CONTROL_CONNECTED_BACKGROUND_ACTIVE": "#94002a",
+		"OPACITY_GREEN_8": "#ed024314",
+		"OPACITY_GREEN_52": "#ed024385"
 	},
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
