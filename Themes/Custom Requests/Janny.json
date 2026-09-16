@@ -45,10 +45,10 @@
       "#000000"
     ],
     "BACKGROUND_MENTIONED": [
-      "#ED024314"
+      "#7ED0F214"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#ED024314"
+      "#7ED0F214"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#7ED0F2"
@@ -60,10 +60,10 @@
       "#7ED0F214"
     ],
     "BACKGROUND_MESSAGE_HIGHLIGHT": [
-      "#ED024314"
+      "#7ED0F214"
     ],
     "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#ED02430F"
+      "#7ED0F20F"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
       "#000000"
@@ -171,7 +171,7 @@
       "#4E91E3"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "#ED024340"
+      "#7ED0F240"
     ],
     "BORDER_MUTED": [
       "#FFFFFF07"
@@ -379,6 +379,9 @@
     ],
     "MENTION_FOREGROUND": [
       "#FAF5AB"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
+      "#7ED0F240"
     ]
   },
   "rawColors": {

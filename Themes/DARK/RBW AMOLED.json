@@ -379,6 +379,9 @@
     ],
     "BORDER_STRONG": [
       "#FFFFFF28"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
+      "#ED024340"
     ]
   },
   "rawColors": {

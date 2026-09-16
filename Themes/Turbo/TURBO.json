@@ -381,6 +381,9 @@
     ],
     "MOBILE_HEADER_ICON_ACTIVE": [
       "#ED0243"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
+      "#ED024340"
     ]
   },
   "rawColors": {
