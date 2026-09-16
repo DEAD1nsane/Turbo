@@ -186,6 +186,12 @@
 		],
 		"BORDER_STRONG": [
 			"#FFFFFF28"
+		],
+		"CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
+			"#ed0243"
+		],
+		"CONTROL_EXPRESSIVE_BACKGROUND_ACTIVE": [
+			"#c10137"
 		]
 	},
 	"rawColors": {
