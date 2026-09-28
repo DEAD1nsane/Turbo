@@ -15,7 +15,7 @@
   },
   "background": {
     "blur": 0.588,
-    "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/3rdEye.png",
+    "url": "https://raw.githubusercontent.com/DEAD1nsane/discord-themes/refs/heads/main/Background%20Images/3rdEye.png",
     "alpha": 0.28
   },
   "semanticColors": {
@@ -278,7 +278,7 @@
       "#FFFFFF1F"
     ],
     "INTERACTIVE_ACCENT_BACKGROUND_DEFAULT": [
-      "#2196f31F"
+      "#007FFF1F"
     ],
     "INTERACTIVE_BACKGROUND_DEFAULT": [
       "#000000"
@@ -365,7 +365,7 @@
       "#000000"
     ],
     "VOICE_CHANNEL_USER_LIMIT_ACCENT_BACKGROUND": [
-      "#2196f333"
+      "#007FFF33"
     ],
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
       "#9A9A9A"
@@ -706,7 +706,7 @@
     "PLATFORM_PARTNER": "#38a1f5",
     "PLATFORM_SKYPE": "#0b76cc",
     "PLATFORM_TWITCH": "#47a8f5",
-    "PLATFORM_TWITCH_SECONDARY": "#2196f3",
+    "PLATFORM_TWITCH_SECONDARY": "#007FFF",
     "PLATFORM_TWITTER": "#1c94f3",
     "PREMIUM_PERK_BLUE": "#47a8f5",
     "PREMIUM_PERK_BLUE_ALT": "#47a8f5",
@@ -969,24 +969,24 @@
     "BG_GRADIENT_UNDER_THE_SEA_3": "#000000"
   },
   "fonts": {
-    "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
-    "ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
-    "ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
-    "ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
-    "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
-    "ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
-    "ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
-    "ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
-    "ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
-    "ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
-    "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
-    "NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
-    "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
-    "NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
-    "NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
-    "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
-    "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
-    "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
+    "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-SemiboldItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Normal.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-NormalItalic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/discord-themes/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
   },
   "spec": 2,
   "sysColors": {
